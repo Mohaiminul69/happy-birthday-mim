@@ -1,0 +1,17 @@
+:root {
+  --primary-color: #333;
+  --secondary-color: #f99500;
+  --light-color: #f3f3f3;
+  --dark-color: rgb(47, 79, 79);
+  --max-width: 1100px;
+  --green-color: rgb(0, 107, 62);
+  --light-dark-color: #444;
+  --social-color: rgb(47, 79, 79);
+  --border-color: rgb(47, 79, 79);
+}
+
+.category {
+  --sports-color: #f99500;
+  --ent-color: #a66bbe;
+  --tech-color: #009cff;
+}
